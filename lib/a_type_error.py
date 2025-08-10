@@ -1,3 +1,5 @@
 #!/usr/bin/env python3
-
-wrong_type = 'abc' + 123
+def test_type_error(self):
+     print("hello_world")
+     
+       
